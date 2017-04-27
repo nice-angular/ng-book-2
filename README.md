@@ -1,3 +1,5 @@
+# 请各位到 https://github.com/ng-book2/book 中提交勘误，那里也提供随书源码的下载。
+
 # ng-book2中文版反馈与勘误
 
 ## 随书源码
