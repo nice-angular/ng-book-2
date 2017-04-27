@@ -1,4 +1,4 @@
-# 请各位到 https://github.com/ng-book2/book 中提交勘误，那里也提供随书源码的下载。
+# 请各位到 <https://github.com/ng-book2/book/issues?q=is%3Aissue> 中提交勘误，那里也提供随书源码的下载。
 
 # ng-book2中文版反馈与勘误
 
